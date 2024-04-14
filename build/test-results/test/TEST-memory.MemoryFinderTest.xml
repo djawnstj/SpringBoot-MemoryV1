@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="memory.MemoryFinderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-12T02:02:42" hostname="DESKTOP-L4FQTJ2" time="0.11">
+<testsuite name="memory.MemoryFinderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-14T10:21:02" hostname="eomjunseoui-noteubug.local" time="0.059">
   <properties/>
-  <testcase name="get()" classname="memory.MemoryFinderTest" time="0.11"/>
+  <testcase name="get()" classname="memory.MemoryFinderTest" time="0.059"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
